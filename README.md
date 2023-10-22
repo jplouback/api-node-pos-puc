@@ -1,7 +1,7 @@
 ## Api em Node
 
 ### Install
-yarn
+`yarn`
 
 ### run
-yarn nodemon
+`yarn nodemon`
